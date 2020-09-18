@@ -93,6 +93,7 @@ Currently implemented are the following redis commands:
 * setex
 * setnx
 * ping
+* psetex
 
 ### Hashing
 * hset
